@@ -17,3 +17,4 @@ Windows users may face few problems while running the code. Linux and Mac are pr
 Willing to code a working prototype!
 
 Shoot me a mail if you're interested in developing a working prototype!
+logr- an amazing Project
